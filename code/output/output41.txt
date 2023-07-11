@@ -1,0 +1,5 @@
+INICIO
+Tarea seleccionada: calculaCoautoriaListaAdyacencia
+PARES: 2426
+IMPARES: 26736
+MAYOR CANTIDAD DE COAUTORIA: 26

@@ -1,0 +1,5 @@
+INICIO
+Tarea seleccionada: calculaCoautoriaMatrizAdyacencia
+PARES: 2426
+IMPARES: 26736
+MAYOR CANTIDAD DE COAUTORIA: 26
